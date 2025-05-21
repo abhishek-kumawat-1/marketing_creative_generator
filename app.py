@@ -9,7 +9,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 # --- Streamlit Page Configuration ---
 st.set_page_config(
-    page_title="Gemini Image Generator (Imagen)",
+    page_title="Creative Generator ✨ (Initial Version) ",
     layout="centered",
     initial_sidebar_state="auto",
 )
