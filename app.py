@@ -143,7 +143,7 @@ strip_text_color = st.color_picker("USP Strip Text Color:", "#FFFFFF", help="Cho
 # --- Font path (IMPORTANT: You need to provide a valid path to a .ttf font file) ---
 # For local testing, put a font file (e.g., Arial.ttf) in the same directory as app.py
 # For deployment on Streamlit Cloud, ensure this font file is part of your repo.
-FONT_PATH = "arial.ttf" # Replace with your actual font file name or path
+FONT_PATH = "2.ttf" # Replace with your actual font file name or path
 
 # Check if font file exists
 try:
