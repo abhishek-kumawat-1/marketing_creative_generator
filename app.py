@@ -18,7 +18,7 @@ st.set_page_config(
 LINKEDIN_PROFILE_URL = "https://www.linkedin.com/in/abhishek-kumawat-iitd/" # <-- REPLACE THIS!
 
 # --- How it Works Button ---
-if st.button("❓ Feedback/ How it Works"):
+if st.button("Feedback?/ How it Works?"):
     st.markdown(f"""
     <a href="{LINKEDIN_PROFILE_URL}" target="_blank">
         <div style="
@@ -39,7 +39,7 @@ if st.button("❓ Feedback/ How it Works"):
     st.info("Contact the developer for more details.")
 
 
-st.header("✨ Creative Generator")
+st.header("✨ Creative Generator v1")
 st.markdown("Generate user appealing creatives with the `imagen-3.0-generate-002` model.")
 st.markdown("---")
 
